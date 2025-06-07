@@ -1,0 +1,9 @@
+AddListMenu "MainMenu" Before "QuitMenu" {
+	TextItem "Back to Hub", "h", "HubBackMenu"
+}
+
+OptionMenu "HubBackMenu" {
+	Caption "Are you sure? The current map will be marked as complete."
+    Command "Yes", "changemap map01;closemenu"
+    Command "No", "closemenu"
+}
