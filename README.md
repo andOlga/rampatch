@@ -1,4 +1,4 @@
-This repository contains unofficial "patches" for [@DavidXN](https://github.com/davidxn)'s various RAMP projects.
+This repository contains unofficial "patches" for [@DavidXN](https://github.com/davidxn)'s various [RAMP](https://ramp.teamouse.net) projects.
 
 These are intended to get the games to be compatible with the latest versions of GZDoom engine. **There are no fixes to individual maps that are unfinishable or otherwise broken, but do not prevent the game from running.**
 
