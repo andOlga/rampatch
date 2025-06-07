@@ -4,7 +4,7 @@ These are intended to get the games to be compatible with the latest versions of
 
 On top of that, I have added the convenient "back to hub" feature from 2024 into past RAMPs.
 
-The full patched games can be downloaded on the [Releases](../../releases) page. The release versions correspond to the versions of GZDoom they were tested on.
+The full patched games can be downloaded on the [Releases](../../releases) page. The release versions correspond to the versions of GZDoom they were tested on, but will likely work on later versions as well. They will only be updated if/when GZDoom breaks RAMP.
 
 To maintain compatibility with your save files, overwrite your existing RAMP PK3s. Type `changemap refuge` before saving in order to make extra sure the save remains compatible, as that map is designed specifically for save transfer between RAMP versions.
 
